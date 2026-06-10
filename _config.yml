@@ -39,15 +39,13 @@ author:
 
 
   # Repositories and software development
-  github           : "https://github.com/simoneb00"
+  github           : "simoneb00"
 
   # Social media
-  linkedin         : "https://www.linkedin.com/in/simone-bauco-37a4002ba/"
+  linkedin         : "simone-bauco-37a4002ba"
 
 # Publication Category - The following the list of publication categories and their headings
 publication_category:
-  books:
-    title: 'Books'
   manuscripts:
     title: 'Journal Articles'    
   conferences:
@@ -217,15 +215,6 @@ defaults:
     values:
       layout: single
       author_profile: true
-  # _teaching
-  - scope:
-      path: ""
-      type: teaching
-    values:
-      layout: single
-      author_profile: true
-      share: true
-      comments: true
   # _publications
   - scope:
       path: ""
@@ -244,14 +233,6 @@ defaults:
       author_profile: true
       share: true
       comment: true
-  # _talks
-  - scope:
-      path: ""
-      type: talks
-    values:
-      layout: talk
-      author_profile: true
-      share: true
 
 
 # Sass/SCSS
