@@ -10,8 +10,10 @@ redirect_from:
 {% include base_path %}
 ---
 
-## Awards and Honors
+## Awards
 
+
+* **Distinguished Workshop Paper Award**, *MDE4SA 2026*, for the publication titled *"Automating Change Propagation in Software Applications for Heterogeneous Computing"*
 
 * **Winner of the 2026 HiPEAC Student Challenge**
   

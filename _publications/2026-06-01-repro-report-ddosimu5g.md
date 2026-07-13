@@ -3,9 +3,9 @@ title: "Reproducibility Report for the Paper: “DDoSimu5G: A Simulator to Model
 collection: publications
 category: reproducibility
 permalink: /publication/reproducibility-report-ddosimu5g
-date: 2025-06-01
+date: 2026-06-01
 venue: 'To appear in: 40th ACM SIGSIM Conference on Principles of Advanced Discrete Simulation'
-#paperurl: 'https://dl.acm.org/doi/full/10.1145/3726301.3734835'
+paperurl: https://dl.acm.org/doi/10.1145/3806789.3816110
 #citation: 'Bauco, S. (2025, June). Reproducibility Report for the Paper:“Towards dialectic models for documenting and conducting simulation studies: A vision”. In 39th ACM SIGSIM Conference on Principles of Advanced Discrete Simulation (pp. 210-211).'
 ---
 

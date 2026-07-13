@@ -2,6 +2,7 @@
 title: "Automating Change Propagation in Software Applications for Heterogeneous Computing"
 collection: publications
 category: conferences
+award: "Distinguished Workshop Paper Award"
 permalink: /publication/automating-change-propagation-in-software-applications-for-heterogeneous-computing
 date: 2026-05-01
 venue: 'To appear in: 2026 IEEE 23rd International Conference on Software Architecture Companion (ICSA-C)'
